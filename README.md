@@ -1,5 +1,5 @@
-recurrence on the x-axis. 
-Whereas the Y-Axis represents the amount of time or frequencies of the words.A ReactJS Assignment.
+TTTales.
+ReactJS Assignment.
 
 A brief overview of the Assignment.
 I've created a ReactJS Application. The landing page or on the first load, user can see a submit button.
