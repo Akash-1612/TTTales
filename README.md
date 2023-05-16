@@ -42,3 +42,7 @@ It conditionally renders the submit and export buttons based on the presence of 
 The canvas element for the chart is wrapped within a div with the class "histoCss".
 
 Export Default: The App component is exported as the default export of the module.
+
+
+The React Application is hosted on Netlify 
+Link: https://graceful-sunflower-d969d6.netlify.app/
